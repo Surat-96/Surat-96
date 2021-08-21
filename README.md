@@ -1,18 +1,12 @@
-## **Hi there 👋, its me SURAT✨👋**
-
-<!--
-**Surat-96/Surat-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, its me SURAT✨👋
 
 ![chrome_dino](chrome_dino.gif)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***About me:***
+- 🔭 I’m currently pursuing my Bachelors from Kalinga Institute of Technology, Bhubaneshwar in Electronics and Telecommunication.
+- 🌱 I’m currently learning **Machine Learning**, **Deep Learning**, **Data Science** and **Data Analysis** technologies.
+- 🤝 I’m looking to collaborate on **Machine learning** and **Data Science** projects.
+- 👁️ Actively looking for opportunities in **Machine Learning**, **Deep Learning** and **Data Science** domains.
+- 🌋 Always looking for challenging work opportunities ahead.
+- 📚 Learning everyday, currently improving my **DBMS** skills.
+- ✨ I try to go beyond and push the bounds.
