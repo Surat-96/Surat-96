@@ -1,4 +1,4 @@
-# Hi there 👋, its me SURAT✨👋
+# HI 👋, its me SURAT✨👋
 
 ![chrome_dino](chrome_dino.gif)
 
