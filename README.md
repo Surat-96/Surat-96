@@ -22,6 +22,6 @@
 
 ⦿ 👉 LinkedIn: https://www.linkedin.com/in/surat-banerjee/
 
-⦿ 👉 Portfolio:  https://suratbanerjee.wixsite.com/myportfolio
+⦿ 👉 Portfolio:  https://suratbanerjee.wixsite.com/myportfoliods
 
 ⦿ 👉 Email: surat.banerjee@gmail.com
