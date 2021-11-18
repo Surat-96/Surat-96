@@ -13,7 +13,7 @@
 ***Tools and Technologies:***     
      
 ```
-  skills = Python, Machine Learning, Data Science, Deep learning, SpringBoot, Hibernate, Java, , MYSQL.
+  skills = Python, Machine Learning, Data Science, Deep learning, Regression, Classification, Clustering, ANN, CNN, RNN, MYSQL.
   tools = Numpy, Pandas, Sklearn, NLTK, Matplotlib, Seaborn, Keras, Tensorflow, MS Excel, Flask.
   cloud_architecture = Heroku
 ```  
