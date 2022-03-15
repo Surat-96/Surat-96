@@ -20,8 +20,4 @@
 
 ***Reach me out on other places:***
 
-⦿ 👉 LinkedIn: https://www.linkedin.com/in/surat-banerjee/
-
-⦿ 👉 Portfolio:  https://suratbanerjee.wixsite.com/myportfoliods
-
 ⦿ 👉 Email: surat.banerjee@gmail.com
