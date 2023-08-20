@@ -3,7 +3,8 @@
 ![chrome_dino](chrome_dino.gif)
 
 ***About me:***
-- 🔭 I’m currently passed out my Masters Course from Maulana Abul Kalam Azad university of Technology, Kolkata in Artificial Intelligence.
+- 😊 I'm working on DS Group as a Senior Executive in A.I Domain. 
+- 🔭 My highest education qualification M.Tech in A.I from Maulana Abul Kalam Azad University of Technology, Kolkata.
 - 📚 Learning everyday, currently improving my **Machine Learning**, **Deep Learning**, **Data Science** skills.
 - 🤝 I’m looking to collaborate on **Machine learning** and **Data Science** projects.
 - 👁️ Actively looking for opportunities in **Machine Learning**, **Deep Learning** and **Data Science** domains.
@@ -13,7 +14,7 @@
 ***Tools and Technologies:***     
      
 ```
-  skills = Python, Machine Learning, Data Science, Deep learning, Regression, Classification, Clustering, ANN, CNN, RNN, MYSQL.
+  skills = Python, Data Science, Machine Learning, Deep learning, Regression, Classification, Clustering, ANN, CNN, RNN, Computer Vision, MYSQL.
   tools = Numpy, Pandas, Sklearn, NLTK, Matplotlib, Seaborn, Keras, Tensorflow, MS Excel, Flask.
   cloud_architecture = Heroku
 ```  
