@@ -14,9 +14,9 @@
 ***Tools and Technologies:***     
      
 ```
-  skills = Python, Data Science, Machine Learning, Deep Learning, Regression, Classification, Clustering, ANN, CNN, RNN, Computer Vision, MYSQL.
-  tools = Numpy, Pandas, Sklearn, NLTK, Matplotlib, Seaborn, Keras, Tensorflow, MS Excel, Flask.
-  cloud_architecture = Heroku
+  skills = Python, Data Science, Machine Learning, Deep Learning, Regression, Classification, Clustering, ANN, CNN, RNN, Computer Vision, Object Detection, MYSQL.
+  tools = Numpy, Pandas, Sklearn, NLTK, Matplotlib, Seaborn, Keras, Tensorflow, MS Excel, Flask, YoloV5, YoloV8, Deep_Sort.
+  cloud_architecture = Heroku, AWS.
 ```  
 
 ***Reach me out on other places:***
