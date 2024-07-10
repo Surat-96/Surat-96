@@ -15,8 +15,10 @@
 ***Tools and Technologies:***     
      
 ```
-  skills = Computer Vision, Object Detection, Large Language Model (LLM), ANN, CNN, RNN, Deep Learning, Machine Learning, Regression, Classification, Clustering, Python, Data Science, MYSQL.
-  tools = YoloV5, YoloV8, Deep_Sort, OpenCV, Gemini-pro, Gemini-Pro-Vision, OpenAI, OLLAMA, CodeLLAMA, Keras, Tensorflow, Numpy, Pandas, Sklearn, NLTK, Matplotlib, Seaborn, MS Excel, Flask.
+  skills = Computer Vision, Object Detection, Large Language Model (LLM), ANN, CNN, RNN, Deep Learning,
+           Machine Learning, Regression, Classification, Clustering, Python, Data Science, MYSQL.
+  tools = YoloV5, YoloV8, Deep_Sort, OpenCV, Gemini-pro, Gemini-Pro-Vision, OpenAI, OLLAMA, CodeLLAMA,
+          Keras, Tensorflow, Numpy, Pandas, Sklearn, NLTK, Matplotlib, Seaborn, MS Excel, Flask.
   cloud_architecture = HuggingFace, Heroku, AWS, Azure.
 ```  
 
