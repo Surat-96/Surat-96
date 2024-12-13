@@ -3,8 +3,11 @@
 ![chrome_dino](chrome_dino.gif)
 
 ***About me:***
-- 😛 Now, working as a Freelancer Data Scientist. 
-- 😊 I worked on DS Group as a Data Scientist.
+- 😛 Now, working at AssistX Enterprise as an AI Developer.
+- 😀 I worked at Freelancer as a Data Scientist. 
+- 😁 I worked on DS Group as a Data Scientist.
+- 😄 I worked at ExcelDots as a Data Scientist Trainee.
+- 😃 I worked at ExcelDots as a Data Scientist Trainee.
 - 🔭 My highest education qualification M.Tech in A.I from Maulana Abul Kalam Azad University of Technology, Kolkata.
 - 📚 Learning everyday, currently improving my **Computer Vision**, **Large Language Model**, **Machine Learning**, **Deep Learning**, **Data Science** skills.
 - 🤝 I’m looking to collaborate on **Computer Vision**, **Large Language Model**, **Deep Learning**, and **Machine Learning** projects.
@@ -15,7 +18,7 @@
 ***Tools and Technologies:***     
      
 ```
-  skills = Computer Vision, Object Detection, Large Language Model (LLM), ANN, CNN, RNN, Deep Learning,
+  skills = Vision Large Model (VLM), Computer Vision, Object Detection, Large Language Model (LLM), ANN, CNN, RNN, Deep Learning,
            Machine Learning, Regression, Classification, Clustering, Python, Data Science, MYSQL.
   tools = YoloV5, YoloV8, Deep_Sort, OpenCV, Gemini-pro, Gemini-Pro-Vision, OpenAI, OLLAMA, CodeLLAMA,
           Keras, Tensorflow, Numpy, Pandas, Sklearn, NLTK, Matplotlib, Seaborn, MS Excel, Flask.
