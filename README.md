@@ -8,6 +8,7 @@
 - 😛 I worked on DS Group as a Data Scientist.
 - 😄 I worked at ExcelDots as a Data Scientist Trainee.
 - 😀 I worked at Artivatic.AI as a Data Scientist Trainee.
+- 😛 I worked at Famocom Technology as a Full Stack Developer.
 - 🔭 My highest education qualification M.Tech in A.I from Maulana Abul Kalam Azad University of Technology, Kolkata.
 - 📚 Learning everyday, currently improving my **Computer Vision**, **Large Language Model**, **Machine Learning**, **Deep Learning**, **Data Science** skills.
 - 🤝 I’m looking to collaborate on **Computer Vision**, **Large Language Model**, **Deep Learning**, and **Machine Learning** projects.
