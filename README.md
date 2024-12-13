@@ -3,7 +3,8 @@
 ![chrome_dino](chrome_dino.gif)
 
 ***About me:***
-- 😛 Now, working as a Freelancer Data Scientist. 
+- 😛 Now, working at AssistX Enterprise as an AI Developer.
+- 😀 I worked at Freelancer as a Data Scientist. 
 - 😊 I worked on DS Group as a Data Scientist.
 - 🔭 My highest education qualification M.Tech in A.I from Maulana Abul Kalam Azad University of Technology, Kolkata.
 - 📚 Learning everyday, currently improving my **Computer Vision**, **Large Language Model**, **Machine Learning**, **Deep Learning**, **Data Science** skills.
